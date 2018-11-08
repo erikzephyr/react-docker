@@ -2,4 +2,4 @@
 It's a node web app using this technologies:
   - React 
   - Jest
-  - Docker (+Docker compose)
+  - Docker (+Docker compose)c
